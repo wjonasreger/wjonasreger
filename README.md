@@ -4,7 +4,6 @@ I am a Graduate Student studying Data Science within the Statistics Department a
 
 I am a self-taught programmer of 10+ years with great interests in applying my computational skills to diverse fields related to Data Science. While my general interests extends broadly across Data Science, my core interests are Natural Language Processing and Machine Learning.
 
-- 🌱 I'm currently learning about Natural Language Processing (NLP).
 - 🔭 I'm currently working on NLP applications towards education such as foreign language learning.
 - 📫 How to reach me: wjonasreger@gmail.com
 - 😄 Pronouns: He/Him/His
